@@ -1,0 +1,79 @@
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* >>> navbar css */
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+/* navbar color */
+.nav-color {
+    background-color: #ffbc63;
+    color: #ffffff;
+}
+
+.nav-link {
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+.navbar-brand {
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+.jumbotron {
+    background-color: #99ddd2;
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* Body CSS */
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* >>> Jumbotron css */
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+.btn {
+    background-color: #53baa5;
+    color: #ffffff; 
+    outline: none;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+}
+.button:hover {
+    background-color: #99ddd2;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
+
+.spotify-parent {
+    background-color: #f7e2c3;
+}
+
+.spotify-title {
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: medium;
+}
+
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* >>> footer */
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+/*  */
+footer {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    color: #ffffff;
+    height: 50px;
+    background-color:#ffbc63;
+    padding: 15px;
+    border-top: 8px solid #f7e2c3;
+    border-color: #f7e2c3;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  }
