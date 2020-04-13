@@ -18,7 +18,7 @@ SO THAT I can ...
 
 ## Application Objective
 
-For users that need to .... insert description from class readme
+For users that need to ....
 
 
 ## Screenshots of the Application
