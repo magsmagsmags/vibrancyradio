@@ -31,6 +31,9 @@
 /* Body CSS */
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
+/* body {
+    background-image: url("triangle-mosaic.png");
+} */
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 /* >>> Jumbotron css */
@@ -50,8 +53,10 @@
 }
 
 .radio-img {
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 #right-jumbo-col {
@@ -66,59 +71,76 @@
 /* >>> Spotify css */
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .spotify-parent {
-    background-color: #f7e3c4;
+    background-color: rgba(152,220,210, 0.8);
     padding: 30px;
     margin: 15px;
     border: 2px;
     border-radius: 25px;
+    
 }
 
 .spotify-title {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     font-size: 20px;
     text-align: center;
-    color:  #797979;
+    color:  #ffffff;
 }
 
 
 .about-and-insta-parent {
     padding: 30px;
     margin: 15px;
-    background-color:  #f7e3c4;
+    background-color: #53bba5;
     border-radius: 5px;
 }
 
 
-.col-md-6 {
+.col-md-5 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     text-align: center;
 }
 #col-guide {
-    margin-right: 10px;
     padding: 10px;
-    background-color: #53bba5;
+    background-color:  #f7e3c4;
     color:  #ffffff;
     margin-top: 30PX;
+    border: 2px;
+    border-radius: 25px;
 }
 
 #guide-title {
-color: #ffffff;
+color: #000000;
 font-size: 20px;
+}
 
+#guide-text {
+    color: #797979;
+    font-size: 14px;
+}
+
+#guide-learn {
+    color: #797979;
+    font-size: 14px;
+}
+
+#guide-list {
+    color: #797979;
 }
 
 
 #col-insta {
-    margin-left: 10px;
     padding: 10px;
     background-color: #ffbc62;
     color:  #ffffff;
     margin-top: 30PX;
+    border: 2px;
+    border-radius: 25px;
 }
 
 #insta-title {
     color: #ffffff;
     font-size: 20px;
+    /* margin-bottom: 10px; */
 }
 
 .bottom-div {
@@ -142,6 +164,13 @@ font-size: 20px;
     color: #53BAA5;
 }
 
+
+/*  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!  */
+
+  /* MOBILE RESPONSIVE STACK COLS AT CERTAIN WIDTH BC INSTA EMBED IS GOING OUTSIDE PARENT */
+
+
+
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 /* >>> footer */
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -155,9 +184,9 @@ footer {
     color: #ffffff;
     height: 75px;
     background-color:#ffbc62;
-    padding: 15px;
-    border-top: 8px solid #f7e3c4;
-    border-color: #f7e3c4;
+    padding: 10px;
+    border-top: 8px solid #ffffff;
+    border-color: #ffffff;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     margin-top: 30px;
@@ -168,3 +197,4 @@ footer {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     text-align: right;
   }
+
