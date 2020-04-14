@@ -1,4 +1,4 @@
-# vVibrancy Radio
+# Vibrancy Radio
 
 * https://github.com/magsmagsmags/vibrancyradio.git
 <!-- * https://magsmagsmags-zzzzzzzz.herokuapp.com/ -->

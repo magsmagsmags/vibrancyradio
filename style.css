@@ -17,7 +17,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 .nav-link {
     color: #ffffff;
     font-family: 'Athiti', sans-serif;
-    font-size: 16px;
+    font-size: 25px;
 }
 
 .navbar-brand {
@@ -34,13 +34,13 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 }
 #jumbo-title {
     font-family: 'Megrim', cursive;
-    font-size: 40px; 
+    font-size: 50px; 
     line-height: 26.4px; 
 }
 
 #jumbo-subhead {
     font-family: 'Athiti', sans-serif;
-    font-size: 24px; 
+    font-size: 36px; 
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -97,13 +97,13 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 
 #spotify-title-1 {
     font-family: 'Megrim', cursive;
-    font-size: 20px;
+    font-size: 36px;
     text-align: center;
     color:  #ffffff;
 }
 #spotify-title-2 {
     font-family: 'Athiti', sans-serif;
-    font-size: 20px;
+    font-size: 36px;
     text-align: center;
     color:  #ffffff;
 }
@@ -138,7 +138,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 #guide-title {
     font-family: 'Megrim', cursive;
     color: #000000;
-    font-size: 30px;
+    font-size: 36px;
 }
 
 #guide-text {
@@ -150,7 +150,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     color: #797979;
     font-family: 'Athiti', sans-serif;
     text-align: center;
-    font-size: 20px;
+    font-size: 24px;
     margin-top: 20px;
 }
 
@@ -159,7 +159,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     color: #797979;
     font-family: 'Athiti', sans-serif;
     text-align: center;
-    font-size: 20px;
+    font-size: 24px;
     margin-top: 20px;
 }
 
@@ -176,7 +176,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 
 #insta-title {
     font-family: 'Megrim', cursive;
-    font-size: 30px;
+    font-size: 36px;
     color: #ffffff;
     /* margin-bottom: 10px; */
 }
@@ -197,7 +197,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 
 .contact-title {
     font-family: 'Megrim', cursive;
-    font-size: 20px;
+    font-size: 50px;
     text-align: center;
     color: #ffffff;
 }
@@ -205,7 +205,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 #contact-center-text {
     font-family: 'Athiti', sans-serif;
     text-align: center;
-    font-size: 20px;
+    font-size: 36px;
     margin-top: 20px;
 }
 
