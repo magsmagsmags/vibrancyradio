@@ -137,7 +137,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     border-radius: 25px;
 }
 
-.guide-img {
+#guide-home {
     height: 200px;
     width: 200px;
 }
@@ -210,6 +210,13 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     background-color: #f7e3c4;
     padding: 30px;
     margin: 10px;
+}
+
+#guide-contact {
+    height: 300px;
+    width: 300px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .contact-title {
