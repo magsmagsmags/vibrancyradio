@@ -11,16 +11,19 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 .nav-color {
     background-color: #53bba5;
     color: #ffffff;
+    height: 40px;
 }
 
 .nav-link {
     color: #ffffff;
     font-family: 'Athiti', sans-serif;
+    font-size: 16px;
 }
 
 .navbar-brand {
     color: #ffffff;
     font-family: 'Megrim', cursive;
+    font-size: 20px;
 }
 
 .jumbotron {
