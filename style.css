@@ -92,7 +92,13 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     
 }
 
-.spotify-title {
+#spotify-title-1 {
+    font-family: 'Megrim', cursive;
+    font-size: 20px;
+    text-align: center;
+    color:  #ffffff;
+}
+#spotify-title-2 {
     font-family: 'Athiti', sans-serif;
     font-size: 20px;
     text-align: center;
@@ -109,7 +115,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 
 
 .col-md-5 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-family: 'Athiti', sans-serif;
     text-align: center;
 }
 #col-guide {
@@ -121,9 +127,15 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     border-radius: 25px;
 }
 
+.guide-img {
+    height: 300px;
+    width: 300px;
+}
+
 #guide-title {
-color: #000000;
-font-size: 20px;
+    font-family: 'Megrim', cursive;
+    color: #000000;
+    font-size: 30px;
 }
 
 #guide-text {
@@ -133,7 +145,7 @@ font-size: 20px;
 
 #guide-learn {
     color: #797979;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 #guide-list {
@@ -151,8 +163,9 @@ font-size: 20px;
 }
 
 #insta-title {
+    font-family: 'Megrim', cursive;
+    font-size: 30px;
     color: #ffffff;
-    font-size: 20px;
     /* margin-bottom: 10px; */
 }
 
@@ -171,12 +184,18 @@ font-size: 20px;
 }
 
 .contact-title {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-family: 'Megrim', cursive;
     font-size: 20px;
     text-align: center;
-    color: #53BAA5;
+    color: #ffffff;
 }
 
+#contact-center-text {
+    font-family: 'Athiti', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+}
 
 /*  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!  */
 
@@ -201,13 +220,13 @@ footer {
     border-top: 8px solid #ffffff;
     border-color: #ffffff;
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-family: 'Athiti', sans-serif;
     margin-top: 30px;
   }
 
   .footer-credit {
     color: #ffffff;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-family: 'Athiti', sans-serif;
     text-align: right;
   }
 
