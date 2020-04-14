@@ -1,3 +1,7 @@
+/* 
+h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 24px; } h3 { font-family: Megrim; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Megrim; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Megrim; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Megrim; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+ */
+
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 /* >>> navbar css */
@@ -11,20 +15,29 @@
 
 .nav-link {
     color: #ffffff;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-family: 'Athiti', sans-serif;
 }
 
 .navbar-brand {
     color: #ffffff;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-family: 'Megrim', cursive;
 }
 
 .jumbotron {
     background-color:  #53bba5;
     color: #ffffff;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     text-align: center;
     margin: 15px;
+}
+#jumbo-title {
+    font-family: 'Megrim', cursive;
+    font-size: 40px; 
+    line-height: 26.4px; 
+}
+
+#jumbo-subhead {
+    font-family: 'Athiti', sans-serif;
+    font-size: 24px; 
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -80,7 +93,7 @@
 }
 
 .spotify-title {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-family: 'Athiti', sans-serif;
     font-size: 20px;
     text-align: center;
     color:  #ffffff;
