@@ -213,10 +213,17 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 }
 
 #guide-contact {
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
     margin-top: 40px;
     margin-bottom: 40px;
+}
+
+#radio-contact {
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .contact-title {
