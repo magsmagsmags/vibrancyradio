@@ -33,31 +33,6 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     font-size: 20px;
 }
 
-.jumbotron {
-    background-color:  #f7e3c4;
-    color: #333333;
-    text-align: center;
-    margin: 30px;
-}
-#jumbo-title {
-    font-family: 'Megrim', cursive;
-    font-size: 50px; 
-    line-height: 50px; 
-}
-
-.radio-img {
-    height: 250px;
-    width: 250px;
-    /* margin-top: 5px; */
-    /* margin-bottom: 15px; */
-}
-
-#jumbo-subhead {
-    font-family: 'Athiti', sans-serif;
-    font-size: 30px; 
-    line-height: 36px;
-}
-
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 /* Body CSS */
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -70,18 +45,32 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 /* >>> Jumbotron css */
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
-.btn {
-    background-color: #ffbc62;
-    color: #ffffff; 
-    outline: none;
-    border-radius: 12px;
-    transition-duration: 0.4s;
-}
-.button:hover {
-    background-color: #99ddd2;
-    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 
+.jumbotron {
+    background-color:  #f7e3c4;
+    color: #333333;
+    text-align: center;
+    margin: 30px;
 }
+#jumbo-title {
+    font-family: 'Megrim', cursive;
+    font-size: 70px; 
+    line-height: 50px; 
+}
+
+.radio-img {
+    height: 350px;
+    width: 350px;
+    /* margin-top: 5px; */
+    /* margin-bottom: 15px; */
+}
+
+#jumbo-subhead {
+    font-family: 'Athiti', sans-serif;
+    font-size: 30px; 
+    line-height: 36px;
+}
+
 
 #right-jumbo-col {
     color: #ffffff;
@@ -134,13 +123,19 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     line-height: 44px;
 }
 
-
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* >>> Guide and Insta css */
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .about-and-insta-parent {
     padding: 30px;
     margin: 30px;
     background-color:  #f7e3c4;
     border-radius: 5px;
 }
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* >>> GUIDE col css */
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
 #col-guide {
     padding: 10px;
@@ -153,9 +148,9 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     border-radius: 25px;
 }
 
-#guide-home {
-    height: 200px;
-    width: 200px;
+#guideHomeImg {
+    height: 250px;
+    width: 250px;
 }
 
 #guide-title {
@@ -163,8 +158,17 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     color: #333333;
     font-size: 44px;
 }
+
 #isThisYou {
     font-family: 'Over the Rainbow', cursive;
+    color: #333333;
+    font-size: 24px;
+    text-align: left;
+}
+
+
+#guide-text {
+    font-family: 'Athiti', sans-serif;
     color: #333333;
     font-size: 24px;
 }
@@ -182,12 +186,6 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 }
 
 
-#guide-text {
-    font-family: 'Athiti', sans-serif;
-    color: #333333;
-    font-size: 36;
-}
-
 #guide-list {
     color: #333333;
     font-family: 'Athiti', sans-serif;
@@ -197,8 +195,22 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 }
 
 
+.btn {
+    background-color: #ffbc62;
+    color: #ffffff; 
+    outline: none;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+}
+.button:hover {
+    background-color: #99ddd2;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 
+}
 
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* >>> INSTA col css */
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
 #col-insta {
     padding: 10px;
@@ -207,18 +219,42 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     margin-top: 30PX;
     border: 2px;
     border-radius: 25px;
+    text-align: center;
+    align-content: center;
 }
 
 #insta-title {
     font-family: 'Over the Rainbow', cursive;
     font-size: 44px;
     color: #333333;
+    text-align: center;
 
+}
+
+#insta-text {
+    font-family: 'Athiti', sans-serif;
+    color: #333333;
+    font-size: 24px;
+    text-align: center;
 }
 
 #instaDiv {
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
+    align-content: center;
+}
+
+.instagram-media {
+    margin: auto;
+    text-align: center;
+    align-content: center;
+}
+
+#instaEmbedDiv {
+    margin: auto;
+    text-align: center;
+    align-content: center;
 }
 
 .bottom-div {
