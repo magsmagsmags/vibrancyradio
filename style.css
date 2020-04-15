@@ -9,7 +9,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 
 /* navbar color */
 .nav-color {
-    background-color: #53bba5;
+    background-color: #ffbc62;
     color: #ffffff;
     height: 45px;
 }
@@ -34,10 +34,10 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 }
 
 .jumbotron {
-    background-color:  #53bba5;
-    color: #ffffff;
+    background-color:  #f7e3c4;
+    color: #333333;
     text-align: center;
-    margin: 15px;
+    margin: 30px;
 }
 #jumbo-title {
     font-family: 'Megrim', cursive;
@@ -63,7 +63,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
 .btn {
-    background-color: #98dcd2;
+    background-color: #ffbc62;
     color: #ffffff; 
     outline: none;
     border-radius: 12px;
@@ -106,20 +106,20 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     font-family: 'Megrim', cursive;
     font-size: 45px;
     text-align: center;
-    color:  #ffffff;
+    color: #333333;
 }
 #spotify-title-2 {
     font-family: 'Athiti', sans-serif;
     font-size: 36px;
     text-align: center;
-    color:  #ffffff;
+    color: #333333;
 }
 
 
 .about-and-insta-parent {
     padding: 30px;
-    margin: 15px;
-    background-color: #53bba5;
+    margin: 30px;
+    background-color:  #f7e3c4;
     border-radius: 5px;
 }
 
@@ -130,7 +130,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 }
 #col-guide {
     padding: 10px;
-    background-color:  #f7e3c4;
+    background-color: #53bba5;
     color:  #ffffff;
     margin-top: 30PX;
     border: 2px;
@@ -144,19 +144,19 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 
 #guide-title {
     font-family: 'Megrim', cursive;
-    color: #000000;
+    color:  #ffffff;
     font-size: 36px;
 }
 #isThisYou {
     font-size: 24;
 }
 #guide-text {
-    color: #797979;
+    color:  #ffffff;
     font-size: 20px;
 }
 
 #guide-learn {
-    color: #797979;
+    color:  #ffffff;
     font-family: 'Athiti', sans-serif;
     text-align: center;
     font-size: 24px;
@@ -168,7 +168,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 }
 
 #guide-list {
-    color: #797979;
+    color:  #ffffff;
     font-family: 'Athiti', sans-serif;
     text-align: center;
     font-size: 24px;
@@ -179,7 +179,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 
 #col-insta {
     padding: 10px;
-    background-color: #ffbc62;
+    background-color: #53bba5;
     color:  #ffffff;
     margin-top: 30PX;
     border: 2px;
@@ -189,7 +189,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 #insta-title {
     font-family: 'Megrim', cursive;
     font-size: 36px;
-    color: #ffffff;
+    color:  #ffffff;
     /* margin-bottom: 10px; */
 }
 
@@ -280,7 +280,7 @@ footer {
     width: 100%;
     color: #ffffff;
     height: 75px;
-    background-color:#ffbc62;
+    background-color: #ffbc62;
     padding: 10px;
     border-top: 8px solid #ffffff;
     border-color: #ffffff;
