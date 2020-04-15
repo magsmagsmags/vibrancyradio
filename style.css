@@ -103,19 +103,16 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 }
 
 #listenAppleImg {
-    height: auto;
     width: 200px;
     margin: 10px;
 }
 
 #listenGoogleImg {
-    height: auto;
     width: 200px;
     margin: 10px;
 }
 
 #listenSpotifyImg {
-    height: auto;
     width: 200px;
     margin: 10px;
 }
