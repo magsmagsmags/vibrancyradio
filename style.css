@@ -83,11 +83,12 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 }
 
 #right-jumbo-col {
-    color: #ffffff
+    color: #ffffff;
 }
 
 #left-jumbo-col {
-    color: #ffffff
+    color: #ffffff;
+    margin: auto;
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
