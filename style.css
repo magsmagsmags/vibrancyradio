@@ -37,9 +37,9 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 /* Body CSS */
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
-/* body {
-    background-image: url("triangle-mosaic.png");
-} */
+body {
+    background-image: url("halftone.png");
+}
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 /* >>> Jumbotron css */
@@ -265,7 +265,6 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 }
 
 .bottom-div {
-    background-color: #ffffff;
     padding: 30px;
 }
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
