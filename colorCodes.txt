@@ -15,3 +15,9 @@ light teal
 color:  #ffffff;
 
     color: #333333;
+
+FONTS    
+    
+    font-family: 'Over the Rainbow', cursive;
+    font-family: 'Athiti', sans-serif;
+    font-family: 'Megrim', cursive;

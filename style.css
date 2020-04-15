@@ -72,6 +72,12 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     line-height: 36px;
 }
 
+#vibrantInRainbow {
+    font-family: 'Megrim', cursive;
+    font-size: 30px; 
+    line-height: 36px;
+}
+
 
 #right-jumbo-col {
     color: #ffffff;
