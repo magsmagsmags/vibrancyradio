@@ -45,9 +45,17 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     line-height: 50px; 
 }
 
+.radio-img {
+    height: 250px;
+    width: 250px;
+    /* margin-top: 5px; */
+    /* margin-bottom: 15px; */
+}
+
 #jumbo-subhead {
     font-family: 'Athiti', sans-serif;
     font-size: 30px; 
+    line-height: 36px;
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -75,15 +83,9 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 
 }
 
-.radio-img {
-    height: 250px;
-    width: 250px;
-    /* margin-top: 5px; */
-    margin-bottom: 25px;
-}
-
 #right-jumbo-col {
     color: #ffffff;
+    margin: auto;
 }
 
 #left-jumbo-col {
@@ -119,8 +121,8 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 }
 
 #spotify-title-1 {
-    font-family: 'Megrim', cursive;
-    font-size: 45px;
+    font-family: 'Over the Rainbow', cursive;
+    font-size: 44px;
     text-align: center;
     color: #333333;
 }
@@ -129,6 +131,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     font-size: 36px;
     text-align: center;
     color: #333333;
+    line-height: 44px;
 }
 
 
@@ -159,16 +162,17 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 }
 
 #guide-title {
-    font-family: 'Megrim', cursive;
+    font-family: 'Over the Rainbow', cursive;
     color: #333333;
-    font-size: 36px;
+    font-size: 44px;
 }
 #isThisYou {
     font-size: 24;
 }
 #guide-text {
+    font-family: 'Over the Rainbow', cursive;
     color: #333333;
-    font-size: 20px;
+    font-size: 36px;
 }
 
 #guide-learn {
@@ -203,8 +207,8 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 }
 
 #insta-title {
-    font-family: 'Megrim', cursive;
-    font-size: 36px;
+    font-family: 'Over the Rainbow', cursive;
+    font-size: 44px;
     color: #333333;
 
 }
