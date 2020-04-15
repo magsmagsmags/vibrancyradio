@@ -130,8 +130,8 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 }
 #col-guide {
     padding: 10px;
-    background-color: #53bba5;
-    color:  #ffffff;
+    background-color: #98dcd2;
+    color: #333333;
     margin-top: 30PX;
     border: 2px;
     border-radius: 25px;
@@ -144,19 +144,19 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 
 #guide-title {
     font-family: 'Megrim', cursive;
-    color:  #ffffff;
+    color: #333333;
     font-size: 36px;
 }
 #isThisYou {
     font-size: 24;
 }
 #guide-text {
-    color:  #ffffff;
+    color: #333333;
     font-size: 20px;
 }
 
 #guide-learn {
-    color:  #ffffff;
+    color: #333333;
     font-family: 'Athiti', sans-serif;
     text-align: center;
     font-size: 24px;
@@ -168,7 +168,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 }
 
 #guide-list {
-    color:  #ffffff;
+    color: #333333;
     font-family: 'Athiti', sans-serif;
     text-align: center;
     font-size: 24px;
@@ -179,8 +179,8 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 
 #col-insta {
     padding: 10px;
-    background-color: #53bba5;
-    color:  #ffffff;
+    background-color: #98dcd2;
+    color: #333333;
     margin-top: 30PX;
     border: 2px;
     border-radius: 25px;
@@ -189,8 +189,8 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 #insta-title {
     font-family: 'Megrim', cursive;
     font-size: 36px;
-    color:  #ffffff;
-    /* margin-bottom: 10px; */
+    color: #333333;
+
 }
 
 #instaDiv {
