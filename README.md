@@ -1,42 +1,40 @@
 # Vibrancy Radio
 
 * https://github.com/magsmagsmags/vibrancyradio.git
-<!-- * https://magsmagsmags-zzzzzzzz.herokuapp.com/ -->
 
-
-![Screenshot](.gif)
-
-## User Story 
-```
-AS A user, I want to be able to ...
-
-I WANT to be able to ...
-
-SO THAT I can ...
-```
-
-
-## Application Objective
-
-For users that need to ....
+* http://www.vibrancyradio.com/index.html
 
 
 ## Screenshots of the Application
 
-<!-- ![Screenshot](/public/assets/screenshot1.png)
-![Screenshot](/public/assets/screenshot2.png)
-![Screenshot](/public/assets/screenshot3.png)
-![Screenshot](/public/assets/screenshot4.png) -->
+![screenshot](/screenshot.png)
 
 
-## Applicatoin Functionality
+## User Story 
+```
+AS A user, I want to be able to view a website that provides information about the Vibrancy Radio Podcast
 
-Application should allow users ...
+I WANT to be able to view where the podcast is hosted, see information about the business products, and access contact information about the business.
 
-Application should allow users to ....
+SO THAT I can listen to the podcast and interact with the business.
+```
 
-Application should allow users to ...
 
+## Application Functionality
+
+Application should allow users view podcast sources.
+
+Application should allow users to learn about Vibrancy Radio.
+
+Application should allow users to learn more about The Vibrancy Guide.
+
+Application should allow users to view BrightLightChels instagram.
+
+Application should allow users to join Bright Light Health email list.
+
+Application should allow users to access The Vibrancy Guide application form. 
+
+Application should allow users to access contact methods for Bright Light Health. 
 
 # Contribute
 Please reach out to me via email at sheakiefer@gmail.com for code suggestions, critiques, feedback, or offers to collaborate. 
