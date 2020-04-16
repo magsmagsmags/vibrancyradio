@@ -11,7 +11,8 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 .nav-color {
     background-color: #ffbc62;
     color: #ffffff;
-    height: 45px;
+    height: auto;
+    
 }
 
 .tiny-VR-logo {
@@ -20,6 +21,20 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     margin: 5px;
 }
 
+.nav {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    /* margin-top: auto;
+    margin-bottom: auto;
+    height: 50%; */
+}
+
+.nav-item {
+    height: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
 
 .nav-link {
     color: #ffffff;
@@ -31,6 +46,12 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     color: #ffffff;
     font-family: 'Megrim', cursive;
     font-size: 20px;
+}
+
+#nav-welcome {
+    font-family: 'Megrim', cursive;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -60,8 +81,8 @@ body {
 }
 
 .radio-img {
-    height: 350px;
-    width: 350px;
+    height: 300px;
+    width: 300px;
     /* margin-top: 5px; */
     /* margin-bottom: 15px; */
 }
