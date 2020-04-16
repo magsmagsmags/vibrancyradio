@@ -1,6 +1,3 @@
-/* 
-h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 24px; } h3 { font-family: Megrim; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Megrim; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Megrim; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Megrim; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
- */
 
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -11,6 +8,8 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 .nav-color {
     background-color: #ffbc62;
     color: #ffffff;
+    font-size: 30px;
+    font-family: 'Over the Rainbow'; 
     height: auto;
     
 }
@@ -24,7 +23,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 .nav {
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 70%;
     /* margin-top: auto;
     margin-bottom: auto;
     height: 50%; */
@@ -47,7 +46,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     font-size: 20px;
 }
 .nav1and3 {
-    font-family: 'Over the Rainbow', cursive;
+    font-family: 'Over the Rainbow'; cursive;
     font-size: 20px;
 }
 
