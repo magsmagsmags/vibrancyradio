@@ -38,8 +38,7 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 
 .nav-link {
     color: #ffffff;
-    font-family: 'Athiti', sans-serif;
-    font-size: 20px;
+
 }
 
 .navbar-brand {
@@ -47,9 +46,14 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     font-family: 'Megrim', cursive;
     font-size: 20px;
 }
+.nav1and3 {
+    font-family: 'Over the Rainbow', cursive;
+    font-size: 20px;
+}
 
 #nav-welcome {
     font-family: 'Megrim', cursive;
+    font-size: 50px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -91,6 +95,9 @@ body {
     font-family: 'Athiti', sans-serif;
     font-size: 30px; 
     line-height: 36px;
+    height: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 #vibrantInRainbow {
