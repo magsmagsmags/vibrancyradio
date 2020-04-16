@@ -9,7 +9,7 @@
     background-color: #ffbc62;
     font-size: 30px;
     font-family: 'Over the Rainbow'; 
-    height: 350px;
+    height: 275px;
     
 }
 
@@ -52,15 +52,15 @@
 
 #nav-welcome {
     font-family: 'Megrim', cursive;
-    font-size: 40px;
+    font-size: 30px;
     margin-left: auto;
     margin-right: auto;
     color: #333333;
 }
 
 .radio-img {
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 200px;
     /* margin-top: 5px; */
     /* margin-bottom: 15px; */
 }
