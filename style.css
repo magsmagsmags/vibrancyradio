@@ -7,7 +7,6 @@
 /* navbar color */
 .nav-color {
     background-color: #ffbc62;
-    color: #ffffff;
     font-size: 30px;
     font-family: 'Over the Rainbow'; 
     height: auto;
@@ -23,7 +22,7 @@
 .nav {
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 100%;
     /* margin-top: auto;
     margin-bottom: auto;
     height: 50%; */
@@ -36,7 +35,7 @@
 }
 
 .nav-link {
-    color: #ffffff;
+    color: #333333;
 
 }
 
@@ -46,15 +45,24 @@
     font-size: 20px;
 }
 .nav1and3 {
-    font-family: 'Over the Rainbow'; cursive;
+    font-family: 'Over the Rainbow' cursive;
     font-size: 20px;
+    color: #ffffff;
 }
 
 #nav-welcome {
     font-family: 'Megrim', cursive;
-    font-size: 50px;
+    font-size: 40px;
     margin-left: auto;
     margin-right: auto;
+    color: #333333;
+}
+
+.radio-img {
+    height: 250px;
+    width: 250px;
+    /* margin-top: 5px; */
+    /* margin-bottom: 15px; */
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -74,20 +82,13 @@ body {
     background-color:  #f7e3c4;
     color: #333333;
     text-align: center;
-    margin: 30px;
+    margin: 50px;
 }
 
 #jumbo-title {
     font-family: 'Megrim', cursive;
     font-size: 70px; 
     line-height: 50px; 
-}
-
-.radio-img {
-    height: 300px;
-    width: 300px;
-    /* margin-top: 5px; */
-    /* margin-bottom: 15px; */
 }
 
 #jumbo-subhead {
@@ -162,7 +163,7 @@ body {
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .about-and-insta-parent {
     padding: 30px;
-    margin: 30px;
+    margin: 50px;
     background-color:  #f7e3c4;
     border-radius: 5px;
 }
