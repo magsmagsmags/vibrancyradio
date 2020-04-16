@@ -1,6 +1,3 @@
-/* 
-h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 24px; } h3 { font-family: Megrim; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Megrim; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Megrim; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Megrim; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
- */
 
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -10,8 +7,10 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
 /* navbar color */
 .nav-color {
     background-color: #ffbc62;
-    color: #ffffff;
-    height: 45px;
+    font-size: 30px;
+    font-family: 'Over the Rainbow'; 
+    height: auto;
+    
 }
 
 .tiny-VR-logo {
@@ -20,17 +19,50 @@ h1 { font-family: Megrim; font-size: 24px; font-style: normal; font-variant: nor
     margin: 5px;
 }
 
+.nav {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    /* margin-top: auto;
+    margin-bottom: auto;
+    height: 50%; */
+}
+
+.nav-item {
+    height: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
 
 .nav-link {
-    color: #ffffff;
-    font-family: 'Athiti', sans-serif;
-    font-size: 20px;
+    color: #333333;
+
 }
 
 .navbar-brand {
     color: #ffffff;
     font-family: 'Megrim', cursive;
     font-size: 20px;
+}
+.nav1and3 {
+    font-family: 'Over the Rainbow' cursive;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+#nav-welcome {
+    font-family: 'Megrim', cursive;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #333333;
+}
+
+.radio-img {
+    height: 250px;
+    width: 250px;
+    /* margin-top: 5px; */
+    /* margin-bottom: 15px; */
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -50,7 +82,7 @@ body {
     background-color:  #f7e3c4;
     color: #333333;
     text-align: center;
-    margin: 30px;
+    margin: 50px;
 }
 
 #jumbo-title {
@@ -59,17 +91,13 @@ body {
     line-height: 50px; 
 }
 
-.radio-img {
-    height: 350px;
-    width: 350px;
-    /* margin-top: 5px; */
-    /* margin-bottom: 15px; */
-}
-
 #jumbo-subhead {
     font-family: 'Athiti', sans-serif;
     font-size: 30px; 
     line-height: 36px;
+    height: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 #vibrantInRainbow {
@@ -135,7 +163,7 @@ body {
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .about-and-insta-parent {
     padding: 30px;
-    margin: 30px;
+    margin: 50px;
     background-color:  #f7e3c4;
     border-radius: 5px;
 }
