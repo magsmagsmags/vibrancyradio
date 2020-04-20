@@ -424,7 +424,7 @@ footer {
     bottom: 0px;
     width: 100%;
     color: #ffffff;
-    height: 60px;
+    height: 65px;
     background-color: #ffbc62;
     padding: 10px;
     border-top: 8px solid #ffffff;
@@ -456,7 +456,7 @@ footer {
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
 
-@media only screen and (max-width: 767.98px) {
+@media only screen and (max-width: 577.98px) {
     .nav {
         margin-top: 5px;
     }
@@ -492,6 +492,42 @@ footer {
 
 
   }
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* >>> MEDIUM SCREEN SIZE */
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* need to do 767-578 */
+ @media (min-width: 578px) and (max-width: 779.98px) { 
+    .nav {
+        margin-top: 5px;
+    }
+
+    .radio-img {
+        height: 125px;
+        width: 125px;
+    }
+
+    .nav-color {
+        background-color: #ffbc62;
+        font-size: 20px;
+        font-family: 'Over the Rainbow'; 
+        height: 200px;
+        
+    }
+
+    #nav-welcome {
+        font-family: 'Megrim', cursive;
+        font-size: 20px;
+        color: #333333;
+    }
+
+    .nav1and3 {
+        font-family: 'Over the Rainbow' cursive;
+        font-size: 16px;
+    }
+  }
+
+
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 /* >>> LARGE SCREEN SIZE */
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -523,5 +559,3 @@ footer {
 
 }
 
-
-/* need to do 767-578 */
