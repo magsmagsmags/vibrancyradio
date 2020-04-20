@@ -22,6 +22,7 @@
 .nav {
     margin-left: auto;
     margin-right: auto;
+    margin-top: 35px;
     width: 100%;
 
 }
@@ -44,21 +45,19 @@
 }
 .nav1and3 {
     font-family: 'Over the Rainbow' cursive;
-    font-size: 16px;
+    font-size: 14px;
     color: #ffffff;
 }
 
 #nav-welcome {
     font-family: 'Megrim', cursive;
-    font-size: 27px;
-    margin-left: auto;
-    margin-right: auto;
+    font-size: 23px;
     color: #333333;
 }
 
 .radio-img {
-    height: 150px;
-    width: 150px;
+    height: 125px;
+    width: 125px;
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -111,6 +110,16 @@ body {
 #left-jumbo-col {
     color: #ffffff;
     margin: auto;
+}
+
+#listenBtnDiv {
+    color: #333333;
+    font-family: 'Over the Rainbow', cursive;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    line-height: 20px;
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -303,8 +312,8 @@ body {
 }
 
 #instaBtnDiv {
-    margin-top: 25px;
-    margin-bottom: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 #contactInstaText {
