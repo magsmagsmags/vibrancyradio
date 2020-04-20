@@ -228,11 +228,15 @@ body {
 
 #guide-list {
     color: #333333;
-    font-family: 'Athiti', sans-serif;
+    font-family: 'Over the Rainbow', cursive;
     text-align: center;
-    font-size: 14px;
+    font-size: 16px;
     margin-top: 20px;
     line-height: 20px;
+}
+
+#insta-btn {
+    font-family: 'Athiti', sans-serif;
 }
 
 
@@ -296,6 +300,24 @@ body {
     margin: auto;
     text-align: center;
     align-content: center;
+}
+
+#instaBtnDiv {
+    margin-top: 25px;
+    margin-bottom: auto;
+}
+
+#contactInstaText {
+    color: #333333;
+    font-family: 'Over the Rainbow', cursive;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 20px;
+    line-height: 20px;
+}
+
+#insta-btn {
+    font-family: 'Athiti', sans-serif;
 }
 
 .bottom-div {
