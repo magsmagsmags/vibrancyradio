@@ -445,9 +445,48 @@ footer {
   /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
   /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
-  
-   /* Extra small devices (portrait phones, less than 576px) */
-   @media (max-width: 575.98px) { ... }
-  
-   /* Small devices (landscape phones, 576px and up) */
-   @media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* >>> MEDIA QUERIES */
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+
+@media only screen and (max-width: 767.98px) {
+    .nav {
+        margin-top: 5px;
+    }
+
+    .radio-img {
+        height: 50px;
+        width: 50px;
+    }
+
+    .nav-color {
+        background-color: #ffbc62;
+        font-size: 20px;
+        font-family: 'Over the Rainbow'; 
+        height: 300px;
+        
+    }
+
+    #nav-welcome {
+        font-family: 'Megrim', cursive;
+        font-size: 16px;
+        color: #333333;
+    }
+
+    .nav1and3 {
+        font-family: 'Over the Rainbow' cursive;
+        font-size: 11px;
+    }
+
+    /* .navCol {
+        vertical-align: middle;
+        line-height: normal;
+    } */
+
+
+
+
+  }
