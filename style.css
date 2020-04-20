@@ -90,7 +90,7 @@ body {
 #jumbo-subhead {
     font-family: 'Over the Rainbow', cursive;
     font-size: 16px; 
-    line-height: 18px;
+    line-height: 24px;
     height: 50%;
     margin-top: auto;
     margin-bottom: auto;
@@ -198,13 +198,13 @@ body {
 }
 
 .sun-n {
-    height:16px;
-    width: 16px;
+    max-height: 16px !important;
+    max-width: 16px !important;
 }
 
 .sun-n2 {
-    height:20px;
-    width: 20px;
+    height:20px !important;
+    width: 20px !important;
 }
 
 #guide-text {
