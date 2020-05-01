@@ -21,3 +21,14 @@ FONTS
     font-family: 'Over the Rainbow', cursive;
     font-family: 'Athiti', sans-serif;
     font-family: 'Megrim', cursive;
+    font-family: 'Gudea', sans-serif;
+
+
+
+
+
+        /* font-weight: bold; */
+         text-align: center;
+          line-height: 25px;
+              border: 2px;
+    border-radius: 25px;
