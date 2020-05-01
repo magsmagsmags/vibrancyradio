@@ -8,7 +8,7 @@
 .nav-color {
     background-color: #ffbc62;
     font-size: 30px;
-    font-family: 'Over the Rainbow'; 
+    font-family: 'Athiti', sans-serif;
     height: 200px;
     padding: 5px;
     
@@ -45,7 +45,7 @@
     font-size: 20px;
 }
 .nav1and3 {
-    font-family: 'Over the Rainbow' cursive;
+    font-family: 'Athiti', sans-serif;
     font-size: 14px;
     color: #ffffff;
 }
@@ -66,7 +66,8 @@
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
 body {
-    background-image: url("halftone.png");
+    /* background-image: url("halftone.png"); */
+    background-color: #f7e3c4;
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -75,10 +76,10 @@ body {
 
 
 .jumbotron {
-    background-color:  #f7e3c4;
+    background-color:  #ffffff;
     color: #333333;
     text-align: center;
-    margin: 50px;
+    margin: 75px;
 }
 
 #jumbo-title {
@@ -88,8 +89,9 @@ body {
 }
 
 #jumbo-subhead {
-    font-family: 'Over the Rainbow', cursive;
-    font-size: 16px; 
+    font-family: 'Athiti', sans-serif;
+    font-weight: bold;
+    font-size: 20px; 
     line-height: 24px;
     height: 50%;
     margin-top: auto;
@@ -98,7 +100,8 @@ body {
 
 #vibrantInRainbow {
     font-family: 'Megrim', cursive;
-    font-size: 16px; 
+    font-weight: 900;
+    font-size: 20px; 
     line-height: 18px;
 }
 
@@ -115,12 +118,13 @@ body {
 
 #listenBtnDiv {
     color: #333333;
-    font-family: 'Over the Rainbow', cursive;
+    font-family: 'Athiti', sans-serif;
+    font-weight: bold;
+    font-size: 20px; 
     text-align: center;
-    font-size: 16px;
     margin-top: 20px;
     margin-bottom: 25px;
-    line-height: 20px;
+    line-height: 25px;
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -128,31 +132,37 @@ body {
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .spotify-parent {
     background-color: rgba(152,220,210, 0.8);
-    padding: 30px;
+    padding: 50px;
     margin: 15px;
     border: 2px;
     border-radius: 25px;
     
 }
 
+.radio-logo {
+    max-height: 100px;
+    width: 100px;
+}
+
 #listenAppleImg {
-    width: 150px;
+    width: 140px;
     margin: 10px;
 }
 
 #listenGoogleImg {
-    width: 150px;
+    width: 140px;
     margin: 10px;
 }
 
 #listenSpotifyImg {
-    width: 150px;
+    width: 140px;
     margin: 10px;
 }
 
 #spotify-title-1 {
-    font-family: 'Over the Rainbow', cursive;
-    font-size: 16px;
+    font-family: 'Athiti', sans-serif;
+    font-weight: bold;
+    font-size: 20px; 
     text-align: center;
     color: #333333;
 }
@@ -169,8 +179,8 @@ body {
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .about-and-insta-parent {
     padding: 30px;
-    margin: 30px;
-    background-color:  #f7e3c4;
+    margin: 75px;
+    background-color:  #ffffff;
     border-radius: 5px;
 }
 
@@ -179,7 +189,7 @@ body {
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
 #col-guide {
-    padding: 20px;
+    padding: 40px;
     background-color: #98dcd2;
     font-family: 'Athiti', sans-serif;
     color: #333333;
@@ -195,15 +205,19 @@ body {
 }
 
 #guide-title {
-    font-family: 'Over the Rainbow', cursive;
+    font-family: 'Athiti', sans-serif;
+    font-weight: bold;
+    font-size: 20px; 
+    text-align: center;
     color: #333333;
-    font-size: 16px;
+
 }
 
 #isThisYou {
-    font-family: 'Over the Rainbow', cursive;
+    font-family: 'Athiti', sans-serif;
+    font-weight: bold;
+    font-size: 20px; 
     color: #333333;
-    font-size: 16px;
     text-align: left;
 }
 
@@ -219,8 +233,9 @@ body {
 
 #guide-text {
     font-family: 'Athiti', sans-serif;
-    color: #333333;
     font-size: 16px;
+    margin: 25px;
+    color: #333333;
 }
 
 #guideQuestionList {
@@ -237,12 +252,13 @@ body {
 
 
 #guide-list {
-    color: #333333;
-    font-family: 'Over the Rainbow', cursive;
+    font-family: 'Athiti', sans-serif;
+    font-weight: bold;
+    font-size: 20px; 
     text-align: center;
-    font-size: 16px;
     margin-top: 20px;
     line-height: 20px;
+    color: #333333;
 }
 
 #insta-btn {
@@ -268,7 +284,7 @@ body {
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
 #col-insta {
-    padding: 30px;
+    padding: 40px;
     background-color: #98dcd2;
     color: #333333;
     margin: 15px;
@@ -279,10 +295,11 @@ body {
 }
 
 #insta-title {
-    font-family: 'Over the Rainbow', cursive;
-    font-size: 16px;
-    color: #333333;
+    font-family: 'Athiti', sans-serif;
+    font-weight: bold;
+    font-size: 20px; 
     text-align: center;
+    color: #333333;
 
 }
 
@@ -318,12 +335,13 @@ body {
 }
 
 #contactInstaText {
-    color: #333333;
-    font-family: 'Over the Rainbow', cursive;
+    font-family: 'Athiti', sans-serif;
+    font-weight: bold;
+    font-size: 20px; 
     text-align: center;
-    font-size: 16px;
     margin-top: 20px;
     line-height: 20px;
+    color: #333333;
 }
 
 #insta-btn {
@@ -344,7 +362,9 @@ body {
 }
 
 #jumbo-title-contact {
-    font-family: 'Over the Rainbow', cursive;
+    font-family: 'Athiti', sans-serif;
+    font-weight: bold;
+    text-align: center;
     font-size: 50px; 
     line-height: 50px; 
 }
@@ -425,7 +445,7 @@ footer {
     bottom: 0px;
     width: 100%;
     color: #ffffff;
-    height: 65px;
+    height: 50px;
     background-color: #ffbc62;
     padding: 10px;
     border-top: 8px solid #ffffff;
@@ -433,12 +453,14 @@ footer {
     text-align: center;
     font-family: 'Athiti', sans-serif;
     margin-top: 30px;
+    font-size: x-small;
   }
 
   .footer-credit {
     color: #ffffff;
     font-family: 'Athiti', sans-serif;
     text-align: right;
+    font-size: x-small;
   }
 
 
