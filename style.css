@@ -180,7 +180,7 @@ body {
 /* >>> Guide and Insta css */
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .about-and-insta-parent {
-    padding: 30px;
+    padding: 20px;
     margin-left: 75px;
     margin-right: 75px;
     background-color:  #ffffff;
@@ -372,7 +372,7 @@ body {
     font-family: 'Athiti', sans-serif;
     font-weight: bold;
     text-align: center;
-    font-size: 50px; 
+    font-size: 35px; 
     line-height: 50px; 
 }
 
@@ -400,9 +400,9 @@ body {
 #contact-center-text {
     font-family: 'Athiti', sans-serif;
     text-align: center;
-    font-size: 20px;
+    font-size: 16px;
     margin-top: 20px;
-    line-height: 38px;
+    line-height: 25px;
 }
 
 .sun-y {
@@ -415,7 +415,7 @@ body {
 #broughtToYou {
     font-family: 'Athiti', sans-serif;
     text-align: center;
-    font-size: 20px;
+    font-size: 16px;
     color: #333333;
 }
 
@@ -430,7 +430,7 @@ body {
 #contactDetailsDiv {
     font-family: 'Athiti', sans-serif;
     text-align: center;
-    font-size: 20px;
+    font-size: 16px;
     color: #333333;
     line-height: 30px;
 }
