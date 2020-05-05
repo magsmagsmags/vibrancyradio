@@ -515,6 +515,14 @@ footer {
         font-size: 12px;
     }
 
+    #guide-text {
+        font-size: 10px;
+    }
+
+    #instaTextDiv {
+        font-size: 10px;
+    }
+
     /* .navCol {
         vertical-align: middle;
         line-height: normal;
