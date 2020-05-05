@@ -203,8 +203,8 @@ body {
 }
 
 #guideHomeImg {
-    height: 150px;
-    width: 150px;
+    height: 200px;
+    width: 200px;
 }
 
 #guide-title {
@@ -219,7 +219,7 @@ body {
 #isThisYou {
     font-family: 'Gudea', sans-serif;
     font-weight: bold;
-    font-size: 20px; 
+    font-size: 18px; 
     color: #333333;
     text-align: left;
 }
@@ -237,7 +237,8 @@ body {
 #guide-text {
     font-family: 'Athiti', sans-serif;
     font-size: 16px;
-    margin: 25px;
+    line-height: 20px;
+    margin: 20px;
     color: #333333;
 }
 
@@ -282,6 +283,8 @@ body {
 
 }
 
+
+
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 /* >>> INSTA col css */
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -310,6 +313,7 @@ body {
     font-family: 'Athiti', sans-serif;
     color: #333333;
     font-size: 16px;
+    line-height: 20px;
     text-align: center;
 }
 
