@@ -23,7 +23,7 @@
 .nav {
     margin-left: auto;
     margin-right: auto;
-    margin-top: 35px;
+    margin-top: 25px;
     width: 100%;
 
 }
@@ -57,8 +57,8 @@
 }
 
 .radio-img {
-    height: 125px;
-    width: 125px;
+    height: 150px;
+    width: 150px;
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
@@ -94,7 +94,7 @@ body {
     font-family: 'Gudea', sans-serif;
     font-weight: bold;
     font-size: 20px; 
-    line-height: 24px;
+    line-height: 30px;
     height: 50%;
     margin-top: auto;
     margin-bottom: auto;
@@ -192,7 +192,7 @@ body {
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
 #col-guide {
-    padding: 40px;
+    padding: 20px;
     background-color: rgba(152,220,210, 0.8);
     font-family: 'Athiti', sans-serif;
     color: #333333;
@@ -200,6 +200,16 @@ body {
     margin: 15px;
     border: 2px;
     border-radius: 25px;
+}
+
+.mb-3 {
+    border: 2px;
+    border-radius: 25px;
+}
+
+.mbsCard {
+    padding: 20px;
+    margin: auto;
 }
 
 #guideHomeImg {
@@ -220,6 +230,7 @@ body {
     font-family: 'Gudea', sans-serif;
     font-weight: bold;
     font-size: 18px; 
+    line-height: 24px;
     color: #333333;
     text-align: left;
 }
