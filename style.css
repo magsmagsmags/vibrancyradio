@@ -79,7 +79,10 @@ body {
     background-color:  RGB(247, 227, 196, 0.6);
     color: #333333;
     text-align: center;
-    margin: 75px;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 40px;
+    margin-bottom: 0px;
     border: 2px;
     border-radius: 25px;
 }
@@ -103,8 +106,8 @@ body {
 #vibrantInRainbow {
     font-family: 'Megrim', cursive;
     font-weight: 900;
-    font-size: 20px; 
-    line-height: 18px;
+    font-size: 22px; 
+    line-height: 30px;
 }
 
 
@@ -204,12 +207,17 @@ body {
 
 .mb-3 {
     border: 2px;
-    border-radius: 25px;
+    border-radius: 10px;
 }
 
 .mbsCard {
     padding: 20px;
     margin: auto;
+}
+
+.card-img {
+    border: 2px;
+    border-radius: 10px;
 }
 
 #guideHomeImg {
@@ -232,7 +240,6 @@ body {
     font-size: 18px; 
     line-height: 24px;
     color: #333333;
-    text-align: left;
 }
 
 .sun-n {
