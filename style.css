@@ -78,14 +78,12 @@ body {
 
 .jumbotron {
     background-color:  rgb(255,188,98, 0.8);
-    color: #333333;
     text-align: center;
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
     margin-bottom: 0px;
-    /* border: 2px;
-    border-radius: 25px; */
+    color: #333333;
 }
 /* 
 #jumbo-title {
@@ -97,11 +95,13 @@ body {
 #jumbo-subhead {
     font-family: 'Gudea', sans-serif;
     font-weight: bold;
+    color: #333333;
     font-size: 20px; 
     line-height: 30px;
     /* height: 50%; */
     margin-top: auto;
     margin-bottom: auto;
+    text-align: center;
 }
 
 #vibrantInRainbow {
@@ -113,23 +113,23 @@ body {
 
 
 #right-jumbo-col {
-    color: #ffffff;
     margin: auto;
 }
 
 #left-jumbo-col {
-    color: #ffffff;
+
     margin: auto;
 }
 
 #listenBtnDiv {
     color: #333333;
     font-family: 'Gudea', sans-serif;
-    font-size: 12px; 
+    font-size: 14px; 
     text-align: center;
     margin-top: 20px;
+    font-weight: 400;
     /* margin-bottom: 25px; */
-    /* line-height: 25px; */
+    line-height: 22px;
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
