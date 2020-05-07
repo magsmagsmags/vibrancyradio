@@ -1,8 +1,10 @@
 dark gold
   background-color: #ffbc62;
+    background-color:  rgb(255,188,98, 0.8);
 
   tan/nude
       background-color:  #f7e3c4;
+          background-color:  rgb(247,227,196, 0.8);
 
 dark teal
     background-color: #53bba5;
