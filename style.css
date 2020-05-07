@@ -578,6 +578,11 @@ footer {
     #insta-title {
         font-size: 20px;
     }
+    
+    #insta-header {
+        padding-right: 10px;
+    }
+
 
     #instaTextDiv {
         font-size: 10px;
