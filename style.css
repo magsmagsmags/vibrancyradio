@@ -15,16 +15,16 @@
     
 }
 
-.tiny-VR-logo {
+/* .tiny-VR-logo {
     height: 30px;
     width: 30px;
     margin: 5px;
-}
+} */
 
 .nav {
     margin-left: auto;
     margin-right: auto;
-    margin-top: 25px;
+    padding-top: 25px;
     width: 100%;
 
 }
@@ -213,6 +213,8 @@ body {
     text-align: center;
     margin-top: auto;
     margin-bottom: auto;
+    margin-left: 15px;
+    margin-right: 15px;
 
 }
 
@@ -341,6 +343,7 @@ body {
     margin: 0px;
     width: 100%;
     padding: 25px;
+    padding-right: 200px;
     background-color: rgba(152,220,210, 0.8);
     color: #ffffff;
 
@@ -357,9 +360,9 @@ body {
 
 #insta-text {
     font-family: 'Athiti', sans-serif;
-    color: #333333;
+    color: #ffffff;
     font-size: 20px;
-    line-height: 25px;
+    line-height: 35px;
     text-align: center;
 }
 
