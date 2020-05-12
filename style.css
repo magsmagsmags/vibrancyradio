@@ -220,7 +220,9 @@ body {
 
 .card {
     border: 2px;
-    border-radius: 10px;
+    border-radius: 10px;    
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .mbsCard {
@@ -606,13 +608,17 @@ footer {
         font-size: 10px;
     }
 
+    #col-insta {
+        padding: 5px;    
+    }
+
     /* .navCol {
         vertical-align: middle;
         line-height: normal;
     } */
 
 
-  }
+  
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 /* >>> MEDIUM SCREEN SIZE */
