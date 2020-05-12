@@ -472,7 +472,7 @@ body {
 }
 
 #contact-brought-to-div {
-    background-color: #53bba5;
+    background-color: rgba(152,220,210, 0.8);
     padding-bottom: 20px;
     padding-top: 10px;
     margin: 0px;
