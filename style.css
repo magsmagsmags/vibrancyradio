@@ -137,7 +137,7 @@ body {
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .spotify-parent {
     /* background-color: rgba(152,220,210, 0.8); */
-    background-color:  rgb(247,227,196, 0.8);
+    background-color:  #ffffff;
     padding: 25px;
     margin: 15px;
     border: 2px;
@@ -477,7 +477,6 @@ body {
     padding-top: 10px;
     margin: 0px;
     color: #ffffff;
-
 }
 
 #broughtToYou {
