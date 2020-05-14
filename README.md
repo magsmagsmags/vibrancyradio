@@ -7,7 +7,7 @@
 
 ## Screenshots of the Application
 
-![screenshot](/screenshot1.png)
+![screenshot](/ss_2.png)
 
 
 ## User Story 
