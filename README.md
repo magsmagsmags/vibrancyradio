@@ -9,6 +9,8 @@
 
 ![screenshot](/ss_2.png)
 
+![screenshot](/ss_3.png)
+
 
 ## User Story 
 ```
