@@ -4,6 +4,7 @@
 /* >>> navbar css */
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
+
 /* navbar color */
 .nav-color {
     background-color: rgb(255,188,98, 0.8);
@@ -14,6 +15,20 @@
     padding: 5px;
     
 }
+
+.nav-btn-div {
+    background-color:  #ffffff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-duration: 0.4s;
+        border-radius: 3px;
+}
+
 
 /* .tiny-VR-logo {
     height: 30px;
@@ -35,8 +50,15 @@
     margin-bottom: auto;
 }
 
+.nav1and3 {
+    font-family: 'Athiti', sans-serif;
+    font-size: 14px;
+    color: #ffbc62
+}
+
+
 .nav-link {
-    color: #333333;
+    color: #ffbc62
 
 }
 
@@ -45,17 +67,12 @@
     font-family: 'Megrim', cursive;
     font-size: 20px;
 }
-.nav1and3 {
-    font-family: 'Athiti', sans-serif;
-    font-size: 14px;
-    color: #ffffff;
-}
 
-#nav-welcome {
+/* #nav-welcome {
     font-family: 'Megrim', cursive;
     font-size: 23px;
     color: #333333;
-}
+} */
 
 .radio-img {
     height: 150px;
@@ -75,6 +92,9 @@ body {
 /* >>> Jumbotron css */
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
+/* #jumbo-subhead-div {
+    background-color: rgb(255,188,98, 0.8);
+} */
 
 .jumbotron {
     background-color:  rgb(255,188,98, 0.8);
@@ -94,9 +114,9 @@ body {
 
 #jumbo-subhead {
     font-family: 'Gudea', sans-serif;
-    font-weight: bold;
-    color: #333333;
-    font-size: 20px; 
+    /* font-weight: bold; */
+    color: #ffffff;
+    font-size: 22px; 
     line-height: 30px;
     /* height: 50%; */
     margin-top: auto;
@@ -122,7 +142,7 @@ body {
 }
 
 #listenBtnDiv {
-    color: #333333;
+    color: #ffffff;
     font-family: 'Gudea', sans-serif;
     font-size: 14px; 
     text-align: center;
@@ -137,11 +157,11 @@ body {
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .spotify-parent {
     /* background-color: rgba(152,220,210, 0.8); */
-    background-color:  #ffffff;
+    background-color:  rgb(247,227,196, 0.8);
     padding: 25px;
     margin: 15px;
     border: 2px;
-    border-radius: 25px;
+    border-radius: 10px;
     max-height: 400px;
     
 }
@@ -342,7 +362,10 @@ body {
 
 #insta-header {
     align-content: center;
-    margin: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     width: 100%;
     padding: 25px;
     padding-right: 200px;
