@@ -7,7 +7,8 @@
 
 /* navbar color */
 .nav-color {
-    background-color: rgb(255,188,98, 0.8);
+    background: rgb(255,188,98);
+    background: linear-gradient(90deg, rgba(255,188,98,0.8) 24%, rgba(255,188,98,0.5) 79%, rgba(255,188,98,0.8) 88%);
     font-size: 30px;
     font-family: 'Athiti', sans-serif;
     height: 200px;
@@ -17,7 +18,6 @@
 }
 
 .nav-btn-div {
-    background-color:  #ffffff;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 2px;
@@ -29,12 +29,6 @@
         border-radius: 3px;
 }
 
-
-/* .tiny-VR-logo {
-    height: 30px;
-    width: 30px;
-    margin: 5px;
-} */
 
 .nav {
     margin-left: auto;
@@ -68,11 +62,6 @@
     font-size: 20px;
 }
 
-/* #nav-welcome {
-    font-family: 'Megrim', cursive;
-    font-size: 23px;
-    color: #333333;
-} */
 
 .radio-img {
     height: 150px;
@@ -92,12 +81,11 @@ body {
 /* >>> Jumbotron css */
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
-/* #jumbo-subhead-div {
-    background-color: rgb(255,188,98, 0.8);
-} */
+
 
 .jumbotron {
-    background-color:  rgb(255,188,98, 0.8);
+    background: rgb(255,188,98);
+    background: linear-gradient(90deg, rgba(255,188,98,0.8) 24%, rgba(255,188,98,0.5) 79%, rgba(255,188,98,0.8) 88%);
     text-align: center;
     margin-left: 0px;
     margin-right: 0px;
@@ -105,12 +93,7 @@ body {
     margin-bottom: 0px;
     color: #333333;
 }
-/* 
-#jumbo-title {
-    font-family: 'Megrim', cursive;
-    font-size: 70px; 
-    line-height: 50px; 
-} */
+
 
 #jumbo-subhead {
     font-family: 'Gudea', sans-serif;
@@ -353,7 +336,6 @@ body {
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
 #col-insta {
-    padding: 40px;
     /* background-color: rgba(152,220,210, 0.8); */
     /* background-color: #ffffff; */
     color: #333333;
@@ -415,6 +397,7 @@ body {
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
+    padding-top: 30px;
 }
 
 #instaBtnDiv {
@@ -448,23 +431,25 @@ body {
 
 
 }
-
-#contact-jumbo {
-    background-color: #ffffff;   
-}
-
 #contact-header {
-    background-color:  rgb(255,188,98, 0.8);
+    background: rgb(255,188,98);
+    background: linear-gradient(90deg, rgba(255,188,98,0.8) 24%, rgba(255,188,98,0.5) 79%, rgba(255,188,98,0.8) 88%);
     padding-bottom: 30px;
 }
 
-#jumbo-title-contact {
+#title-contact {
     font-family: 'Athiti', sans-serif;
     font-weight: bold;
     text-align: center;
     font-size: 35px; 
     line-height: 50px; 
 }
+
+#contact-jumbo {
+    background: #ffffff !important;   
+}
+
+
 
 #guide-contact {
     height: 300px;
@@ -516,6 +501,7 @@ body {
 #brought-to-jumbo {
     background-color: #ffffff;
     margin: 0px;
+    padding: 0px;
 }
 
 #contactBrightLightHealth {
@@ -532,6 +518,7 @@ body {
     font-size: 18px;
     color: #333333;
     line-height: 30px;
+    background-color: #ffffff;
 }
 
 /*  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!  */
@@ -594,7 +581,8 @@ footer {
     }
 
     .nav-color {
-        background-color: rgb(255,188,98, 0.8);
+        background: rgb(255,188,98);
+        background: linear-gradient(90deg, rgba(255,188,98,0.8) 24%, rgba(255,188,98,0.5) 79%, rgba(255,188,98,0.8) 88%);
         font-size: 20px;
         font-family: 'Gudea', sans-serif;
         height: 300px;
@@ -610,6 +598,7 @@ footer {
     .nav1and3 {
         font-family: 'Gudea', sans-serif;
         font-size: 11px;
+        margin-right: 15px;
     }
 
     #guide-list {
@@ -660,7 +649,8 @@ footer {
     }
 
     .nav-color {
-        background-color: rgb(255,188,98, 0.8);
+        background: rgb(255,188,98);
+        background: linear-gradient(90deg, rgba(255,188,98,0.8) 24%, rgba(255,188,98,0.5) 79%, rgba(255,188,98,0.8) 88%);
         font-size: 16px;
         font-family: 'Gudea', sans-serif;
         height: 200px;
@@ -688,7 +678,8 @@ footer {
 @media only screen and (min-width: 992px) {
     
     .nav-color {
-        background-color: rgb(255,188,98, 0.8);
+        background: rgb(255,188,98);
+        background: linear-gradient(90deg, rgba(255,188,98,0.8) 24%, rgba(255,188,98,0.5) 79%, rgba(255,188,98,0.8) 88%);
         font-size: 30px;
         font-family: 'Gudea', sans-serif;
         height: 200px;
