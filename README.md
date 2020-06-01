@@ -7,7 +7,7 @@
 
 ## Screenshots of the Application
 
-![screenshot](/ss_2.png)
+![screenshot](/ss_1.png)
 
 ![screenshot](/ss_3.png)
 
