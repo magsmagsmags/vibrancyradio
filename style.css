@@ -395,13 +395,13 @@ body {
     margin: auto;
     text-align: center;
     align-content: center;
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-bottom: 30px;
-    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 
-#instaBtnDiv {
+#insta-BtnDiv {
     margin-top: 50px;
     margin-bottom: 50px;
 }
@@ -423,6 +423,69 @@ body {
 .bottom-div {
     padding: 30px;
 }
+
+
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/*  */
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+#col-VG {
+    /* background-color: rgba(152,220,210, 0.8); */
+    /* background-color: #ffffff; */
+    color: #333333;
+    /* margin: 15px; */
+    /* border: 2px;
+    border-radius: 25px; */
+    /* text-align: center; */
+    align-content: center;
+}
+
+#VG-header {
+    align-content: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 100%;
+    padding: 25px;
+    padding-right: 200px;
+    background-color: rgba(83, 187, 165, .8);
+    color: #ffffff;
+
+}
+
+#VG-title {
+    font-family: 'Megrim', cursive;
+    font-weight: 900;
+    font-size: 40px; 
+    text-align: left;
+    color: #ffffff;
+
+}
+
+#VG-text {
+    font-family: 'Athiti', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 35px;
+    text-align: center;
+}
+
+#VG-BtnDiv {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+#VG-btn {
+    font-family: 'Athiti', sans-serif;
+    background-color: #ffffff;
+    color: #53bba5;
+}
+
+
+
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 /* >>> CONTACT PAGE CSS
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */

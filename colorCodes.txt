@@ -14,8 +14,10 @@ light yellow
 
 dark teal
     background-color: #53bba5;
+    background-color: rgba(83, 187, 165, 1)
 
 light teal
+    #98dcd2
     background-color: #98dcd2;
     background-color: rgba(152,220,210, 0.8);
 
