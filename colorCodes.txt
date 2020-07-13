@@ -9,6 +9,9 @@ dark gold
       background-color:  #f7e3c4;
           background-color:  rgb(247,227,196, 0.8);
 
+light yellow
+#ffdaa0
+
 dark teal
     background-color: #53bba5;
 
